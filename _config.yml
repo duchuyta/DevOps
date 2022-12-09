@@ -1,6 +1,7 @@
 title: DevOps notes
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+color_scheme: wiki
 
 url: https://duchuyta.github.io/DevOps/
 
