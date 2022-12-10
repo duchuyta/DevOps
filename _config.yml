@@ -26,8 +26,8 @@ mermaid:
   # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
   # See also docs/ui-components/code   
    
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
   
 kramdown:
   syntax_highlighter_opts:
