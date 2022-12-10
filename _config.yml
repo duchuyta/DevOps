@@ -7,7 +7,7 @@ url: https://duchuyta.github.io/DevOps/
 permalink: pretty
 
 aux_links:
-  Template Repository: https://github.com/duchuyta/DevOps
+  DevOps Wiki on GitHub: https://github.com/duchuyta/DevOps
    
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -62,9 +62,9 @@ callouts:
     color: red
 
 # External navigation links
-nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/duchuyta/DevOps
+#nav_external_links:
+#  - title: Just the Docs on GitHub
+#    url: https://github.com/duchuyta/DevOps
 
 # Footer content
 # appears at the bottom of every page's main content
